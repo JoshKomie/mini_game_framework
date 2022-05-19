@@ -2,7 +2,7 @@
 
 A tiny (but growing) collection of helper/wrapper classes for sdl2. I started this project to jumpstart my many experiments which use sdl2. It is good for getting something up on screen quickly, see example below:
 
-`
+```
 #include "my_game.h"
 
 void MyGame::create()
@@ -34,6 +34,6 @@ void MyGame::close()
 {
     std::cout << "close" << end;
 }
-`
+```
 
 
